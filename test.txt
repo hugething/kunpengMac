@@ -4,5 +4,4 @@ test1s
 test2
 
 test3
-
-it's new branch
+Creating a new branch is quick AND simple.
